@@ -6,4 +6,6 @@ using UnityEngine.SceneManagement;
 
 public class LoadLevel : MonBehaviour {
 public void Level(string name) { 
-  Application.LoadLevel("Example")
+  Application.LoadLevel("Example");
+}
+}
